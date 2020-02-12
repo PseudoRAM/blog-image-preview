@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  background: #fffbf5;
+  margin: -8px;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
